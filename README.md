@@ -1,6 +1,6 @@
 ## Interpretable RL Framework for ICU Hypotension Management
 
-This repo contains notebooks, code and files associated with paper `An Interpretable RL Framework for Pre-deployment Case Review, Improvement, and Validation Applied to Hypotension Management in the ICU`
+This repo contains notebooks, code and files associated with paper **An Interpretable RL Framework for Pre-deployment Case Review, Improvement, and Validation Applied to Hypotension Management in the ICU**
 
 ### Requirements
 - python 3.7 or above
