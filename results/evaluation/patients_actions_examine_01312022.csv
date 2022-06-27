@@ -1,0 +1,51 @@
+patient_id,timestep,recommended action,actual action
+236923,4.0,both fluid and vaso,vaso only
+234228,28.0,both fluid and vaso,fluid only
+239472,1.0,both fluid and vaso,"no fluid, no vaso"
+244224,12.0,vaso only,both fluid and vaso
+229013,4.0,both fluid and vaso,"no fluid, no vaso"
+247018,3.0,both fluid and vaso,"no fluid, no vaso"
+288496,44.0,both fluid and vaso,vaso only
+287236,11.0,both fluid and vaso,vaso only
+298600,26.0,both fluid and vaso,vaso only
+243804,16.0,both fluid and vaso,vaso only
+279678,10.0,both fluid and vaso,vaso only
+288644,11.0,both fluid and vaso,"no fluid, no vaso"
+269954,1.0,"no fluid, no vaso",both fluid and vaso
+274896,55.0,"no fluid, no vaso",fluid only
+208993,65.0,"no fluid, no vaso",fluid only
+221354,67.0,"no fluid, no vaso",vaso only
+291860,29.0,"no fluid, no vaso",fluid only
+205286,9.0,"no fluid, no vaso",fluid only
+282233,12.0,"no fluid, no vaso",fluid only
+207246,31.0,"no fluid, no vaso",both fluid and vaso
+248483,41.0,"no fluid, no vaso",vaso only
+292184,36.0,"no fluid, no vaso",vaso only
+270854,24.0,"no fluid, no vaso",vaso only
+265048,40.0,"no fluid, no vaso",vaso only
+268014,50.0,"no fluid, no vaso",vaso only
+219103,54.0,"no fluid, no vaso",fluid only
+263603,67.0,"no fluid, no vaso",fluid only
+234446,6.0,"no fluid, no vaso",vaso only
+233872,9.0,"no fluid, no vaso",vaso only
+218355,41.0,"no fluid, no vaso",vaso only
+223276,13.0,"no fluid, no vaso",fluid only
+251027,7.0,"no fluid, no vaso",fluid only
+238624,26.0,"no fluid, no vaso",fluid only
+256172,41.0,"no fluid, no vaso",both fluid and vaso
+236575,43.0,"no fluid, no vaso",fluid only
+245127,12.0,"no fluid, no vaso",both fluid and vaso
+204672,16.0,"no fluid, no vaso",fluid only
+272327,17.0,"no fluid, no vaso",fluid only
+212249,9.0,"no fluid, no vaso",vaso only
+247444,10.0,"no fluid, no vaso",vaso only
+281173,18.0,"no fluid, no vaso",vaso only
+222683,41.0,"no fluid, no vaso",fluid only
+244544,49.0,"no fluid, no vaso",vaso only
+219545,40.0,"no fluid, no vaso",vaso only
+219585,16.0,"no fluid, no vaso",vaso only
+279557,20.0,"no fluid, no vaso",fluid only
+291533,21.0,"no fluid, no vaso",fluid only
+207141,5.0,"no fluid, no vaso",both fluid and vaso
+212271,32.0,"no fluid, no vaso",fluid only
+252225,16.0,"no fluid, no vaso",fluid only
